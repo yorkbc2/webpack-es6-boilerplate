@@ -1,3 +1,5 @@
-import logger from "./logger.es6"
+// Welcome to EcmaScript 6 Boilerplate for JavaScript that works with WebPack
 
-logger("Hello world!")
+let myApp = {}
+
+export default myApp
